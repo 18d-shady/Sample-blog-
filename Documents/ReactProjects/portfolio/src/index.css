@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.profilep {
+	background-size: contain;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+.workp {
+	background-size: cover;
+	background-color: black;
+	background-repeat: no-repeat;
+	
+}
+
+
+
